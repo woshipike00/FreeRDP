@@ -5,6 +5,6 @@ gen/
 jni/external/*
 !libs
 libs/armeabi*
-AndroidManifest.xml
+#AndroidManifest.xml
 local.properties
 !.project
